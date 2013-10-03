@@ -133,9 +133,10 @@
 * [新旧字形对照表（印刷体）][new-old-char]
 * [简化字总表（1986年版）][simplified-chinese]
 * [第一批异体字整理表][variant-chinese]
-* [现代汉语常用字表][common-chinese]
-* 现代汉语通用字笔顺规范
+* [现代汉语常用字表（1988年版）][common-chinese]
+* [现代汉语通用字笔顺规范（1997年版）][chinese-stroke-order]
 * 现代汉语通用字表
+* [通用规范汉字表（2009年征求意见稿）][universal-canonical-chinese]
 * 汉字偏旁部首表
 * 汉语拼音方案
 * 普通话异读词审音表
@@ -149,7 +150,12 @@
 
 [variant-chinese]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E6%95%B0%E5%AD%97%E6%96%87%E5%AD%97/%E7%AC%AC%E4%B8%80%E6%89%B9%E5%BC%82%E4%BD%93%E5%AD%97%E6%95%B4%E7%90%86%E8%A1%A8.pdf
 
-[common-chinese]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E6%95%B0%E5%AD%97%E6%96%87%E5%AD%97/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8.pdf
+[common-chinese]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E6%95%B0%E5%AD%97%E6%96%87%E5%AD%97/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8%EF%BC%881988%E5%B9%B4%E7%89%88%EF%BC%89.pdf
+
+[chinese-stroke-order]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E6%95%B0%E5%AD%97%E6%96%87%E5%AD%97/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E9%80%9A%E7%94%A8%E5%AD%97%E7%AC%94%E9%A1%BA%E8%A7%84%E8%8C%83%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89.pdf
+
+[universal-canonical-chinese]: #
+
 
 ### 现行的法律、法规、规章
 
