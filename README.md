@@ -131,7 +131,7 @@
 ### 现行的行业规范
 
 * [新旧字形对照表（印刷体）][new-old-char]
-* 简化字总表
+* [简化字总表（1986年版）][simplified-chinese]
 * 第一批异体字整理表
 * 现代汉语常用字表
 * 现代汉语通用字笔顺规范
@@ -144,6 +144,8 @@
 * 中国省、自治区、直辖市、特别行政区汉字简称、罗马字母拼写及代码表
 
 [new-old-char]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E6%95%B0%E5%AD%97%E6%96%87%E5%AD%97/%E6%96%B0%E6%97%A7%E5%AD%97%E5%BD%A2%E5%AF%B9%E7%85%A7%E8%A1%A8.pdf
+
+[simplified-chinese]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E6%95%B0%E5%AD%97%E6%96%87%E5%AD%97/%E7%AE%80%E5%8C%96%E5%AD%97%E6%80%BB%E8%A1%A8%EF%BC%881986%E5%B9%B4%E7%89%88%EF%BC%89.pdf
 
 
 ### 现行的法律、法规、规章
