@@ -149,8 +149,9 @@
 * [现代汉语通用字笔顺规范（1997年版）][universal-chinese-stroke-order]
 * [现代汉语通用字表（1988年版）][universal-chinese]
 * [通用规范汉字表（2009年征求意见稿）][universal-canonical-chinese]
-* 汉语拼音方案
-* 普通话异读词审音表
+* [汉语拼音方案][pinyin]
+* [汉语拼音字母名称读音对照表][pinyin-pronunciation]
+* [普通话异读词审音表][special-pronunciation]
 * [中国人名汉语拼音字母拼写法][person-name-pinyin]
 * [中国地名汉语拼音字母拼写法][place-name-pinyin]
 * [中国地名汉语拼音字母拼写规则(汉语地名部分)][place-name-pinyin-rule]
@@ -170,6 +171,12 @@
 [universal-chinese]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E6%95%B0%E5%AD%97%E6%96%87%E5%AD%97/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E9%80%9A%E7%94%A8%E5%AD%97%E8%A1%A8%EF%BC%881988%E5%B9%B4%E7%89%88%EF%BC%89.pdf
 
 [universal-canonical-chinese]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E6%95%B0%E5%AD%97%E6%96%87%E5%AD%97/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8%EF%BC%882009%E5%B9%B4%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF%EF%BC%89.pdf
+
+[pinyin]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E6%95%B0%E5%AD%97%E6%96%87%E5%AD%97/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88.pdf
+
+[pinyin-pronunciation]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E6%95%B0%E5%AD%97%E6%96%87%E5%AD%97/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3%E5%AD%97%E6%AF%8D%E5%90%8D%E7%A7%B0%E8%AF%BB%E9%9F%B3%E5%AF%B9%E7%85%A7%E8%A1%A8.pdf
+
+[special-pronunciation]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E6%95%B0%E5%AD%97%E6%96%87%E5%AD%97/%E6%99%AE%E9%80%9A%E8%AF%9D%E5%BC%82%E8%AF%BB%E8%AF%8D%E5%AE%A1%E9%9F%B3%E8%A1%A8.pdf
 
 [person-name-pinyin]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E6%95%B0%E5%AD%97%E6%96%87%E5%AD%97/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%8D%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3%E5%AD%97%E6%AF%8D%E6%8B%BC%E5%86%99%E6%B3%95.pdf
 
